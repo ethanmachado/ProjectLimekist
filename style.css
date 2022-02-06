@@ -46,7 +46,7 @@ body {
 }
 
 #showcase {
-    background-image: url(../css/images/limekist.jpg);
+    background-image: url(limekist.jpg);
     background-position: center right;
     min-height: 300px;
     margin-bottom: 30px;
